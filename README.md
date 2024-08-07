@@ -2,7 +2,7 @@
 ### Hi there 👋, I'm Andrew
 #### Junior Software Engineer
 
-##Software Enthusiast | Building things with code
+## Software Enthusiast | Building things with code
 
 I'm a passionate developer with a strong foundation in JavaScript. I'm constantly learning and expanding my skill set and am particularly interested in web app development.
 
