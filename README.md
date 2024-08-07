@@ -1,7 +1,7 @@
 
 ### Hi there 👋, I'm Andrew
 #### Junior Software Engineer
-![Junior Software Engineer](https://www.canva.com/design/DAGEQWSeQqQ/e_rgqVNoQDwfVP4K6Qm3Tg/edit)
+[Junior Software Engineer](https://www.canva.com/design/DAGEQWSeQqQ/e_rgqVNoQDwfVP4K6Qm3Tg/edit)
 https://www.canva.com/design/DAGEQWSeQqQ/e_rgqVNoQDwfVP4K6Qm3Tg/edit
 ##Software Enthusiast | Building things with code
 
