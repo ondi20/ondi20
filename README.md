@@ -1,8 +1,7 @@
 
 ### Hi there 👋, I'm Andrew
 #### Junior Software Engineer
-[Junior Software Engineer](https://www.canva.com/design/DAGEQWSeQqQ/e_rgqVNoQDwfVP4K6Qm3Tg/edit)
-https://www.canva.com/design/DAGEQWSeQqQ/e_rgqVNoQDwfVP4K6Qm3Tg/edit
+
 ##Software Enthusiast | Building things with code
 
 I'm a passionate developer with a strong foundation in JavaScript. I'm constantly learning and expanding my skill set and am particularly interested in web app development.
