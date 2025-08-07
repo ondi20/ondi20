@@ -1,10 +1,8 @@
 
-### Hello Wolrd👋,
-#### My name is Andrew
+### Hello World👋,
+### My name is Andrew (`## I am SAP Certified)
 
-## SAP Certified
-
-I like using VSCODE. ## I can use ### VI.
+I like using VSCODE. I can use VI.
 
 ## Skills:  I try my best. I am no better man.🙁
 
