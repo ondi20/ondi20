@@ -1,13 +1,11 @@
 
-### Hi there 👋, I'm Andrew
-#### Junior Software Engineer
+### Hello Wolrd👋,
+#### My name is Andrew
 
-## Software Enthusiast | Building things with code
+## SAP Certified
 
-I'm a passionate developer with a strong foundation in JavaScript. I'm constantly learning and expanding my skill set and am particularly interested in web app development.
+I like using VSCODE. ## I can use ### VI.
 
-I'm always looking for new challenges and opportunities to collaborate. Feel free to reach out if you have any questions or interesting projects in mind!
+## Skills:  I try my best. I am no better man.🙁
 
-Skills:  REACT / JS / HTML / CSS
-
-- 🔭 I’m currently working on this page. 
+Open to any opportunity.
